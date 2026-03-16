@@ -8,3 +8,6 @@ This repository is my study notebook for learning:
 - How modern applications are structured
 
 Goal: Understand software systems deeply enough to audit and design them.
+
+## Git Learning Progress
+Today I cloned my first repository and explored git status
